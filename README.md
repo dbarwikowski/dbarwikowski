@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 You can contact me on:
--![dbarwikowski](https://github.com/dbarwikowski/dbarwikowski/blob/master/Twitter_Logo_WhiteOnBlue.svg =100px)
+-![dbarwikowski](https://github.com/dbarwikowski/dbarwikowski/blob/master/Twitter_Logo_WhiteOnBlue.svg =100x)
 <!--
 **dbarwikowski/dbarwikowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
