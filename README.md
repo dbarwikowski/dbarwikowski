@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## You can contact me on:
--<a href="https://twitter.com/d_barwikowski"><img src="https://github.com/dbarwikowski/dbarwikowski/blob/master/Twitter_Logo_WhiteOnBlue.svg" width="100" height="100" /></a>
+<a href="https://twitter.com/d_barwikowski"><img src="https://github.com/dbarwikowski/dbarwikowski/blob/master/Twitter_Logo_WhiteOnBlue.svg" width="100" height="100" /></a>
 
 
 
