@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Latest gists:
+- [Remove password from Visual Basic for Application project in excel (.xlsm) file](https://gist.github.com/dbarwikowski/8d7c8ea7dccd5efbf34a473ca17586e5)
+- [Macros for safe homing Z when Z-endstop is detached and Klicky/Euclid probe is put instead](https://gist.github.com/dbarwikowski/c1be1fd1c2b5d7de72794edc6f6ab5fe)
+- [Clean USB drive after linux installation](https://gist.github.com/dbarwikowski/07da8285dbaf56b98f2d65d137370269)
+- [Mark html containers on any page](https://gist.github.com/dbarwikowski/dbdeccb27aefa73a2dd7c6dc372748c4)
